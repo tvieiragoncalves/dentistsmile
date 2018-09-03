@@ -8,18 +8,18 @@ logo_url: svg/min/logo.svg
 # Hero
 hero:
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Tiago Gonçalves
+    hero_description: Psicólogo Clínico
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
+    phone: 91 300 84 60
     emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    email: tvieiragoncalves@gmail.com
+    address: Rua de Mosqueiros, Oliveira do Arda - Raiva, Castelo de Paiva
 
 # Opening hours
 monday_friday: 9:00 – 18:00
