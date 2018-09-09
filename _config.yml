@@ -61,5 +61,6 @@ exclude: [
 ]
 
 # Theme Settings
+remote_theme: obaez/dentistsmile
 analytics:
 google_verification:
