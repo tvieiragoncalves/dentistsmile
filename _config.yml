@@ -37,7 +37,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
+    address: Rua de Mosqueiros, Oliveira do Arda , Portugal
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -49,7 +49,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2018 Tiago Gonçalves- All rights reserved
 
 # Build settings
 markdown: kramdown
