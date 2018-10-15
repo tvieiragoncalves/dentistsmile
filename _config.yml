@@ -25,7 +25,6 @@ contact:
     address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
 
 # Opening hours
-monday_friday: 9:00 – 18:00
 saturday: 10:00 – 17:00
 sunday: 10:00 – 15:00
 
@@ -36,7 +35,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Rua de Mosqueiros, Oliveira do Arda ,Castelo de Paiva, Portugal
+    address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
     address_details: svg/min/logo.svg
 
 # Social settings
