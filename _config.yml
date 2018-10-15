@@ -1,8 +1,8 @@
 # Site settings
 title: Tiago Gonçalves | Psicólogo Clínico
 description: "A sua saúde é a nossa prioridade"
-baseurl: "/dentistsmile/" # the subpath of your site, e.g. /blog
-url: "http://tvieiragoncalves.github.io" # the name of your domain
+baseurl: "tvieiragoncalves.github.io/dentistsmile/" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
@@ -12,14 +12,14 @@ hero:
     hero_description: Psicólogo Clínico
 
 # Contact form
-api_token: b9abaecea4fc1a6d32c098b62cbc9320 # Enter API token here
+api_token:  b9abaecea4fc1a6d32c098b62cbc9320 # Enter API token here
 
 # Contact info
 contact:
     phone: 91 300 84 60
     emergency: 931 53 234
     email: tvieiragoncalves@gmail.com
-    address: Rua de Mosqueiros, Oliveira do Arda - Raiva, Castelo de Paiva
+    address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -60,7 +60,6 @@ exclude: [
     .gitignore
 ]
 
-# Theme Settings
-remote_theme: obaez/dentistsmile
+# Theme Settin gs
 analytics:
 google_verification:
