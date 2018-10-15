@@ -1,7 +1,7 @@
 # Site settings
 title: Tiago Gonçalves | Psicólogo Clínico
 description: "A sua saúde é a nossa prioridade"
-baseurl: "/dentistsmile/" # the subpath of your site, e.g. /blog
+baseurl: "tvieiragoncalves.github.io/dentistsmile/" # the subpath of your site, e.g. /blog
 url: "tvieiragoncalves.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
 
