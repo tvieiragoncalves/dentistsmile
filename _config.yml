@@ -19,7 +19,7 @@ contact:
     phone: 91 300 84 60
     emergency: 931 53 234
     email: tvieiragoncalves@gmail.com
-    address: Rua de Mosqueiros, Oliveira do Arda - Raiva, Castelo de Paiva
+    address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -60,6 +60,6 @@ exclude: [
     .gitignore
 ]
 
-# Theme Settings
+# Theme Settin gs
 analytics:
 google_verification:
