@@ -7,12 +7,12 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero:
-    hero_img: img/hero.jpg
+    hero_img: hero.jpg
     hero_title: Tiago Gonçalves
     hero_description: Psicólogo Clínico
 
 # Contact form
-api_token:  b9abaecea4fc1a6d32c098b62cbc9320. # Enter API token here
+api_token:  b9abaecea4fc1a6d32c098b62cbc9320 # Enter API token here
 
 # Contact info
 contact:
