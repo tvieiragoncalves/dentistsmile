@@ -2,17 +2,21 @@
 title: Tiago Gonçalves | Psicólogo Clínico
 description: "A sua saúde é a nossa prioridade"
 <<<<<<< HEAD
+<<<<<<< HEAD
 baseurl: "tvieiragoncalves.github.io/dentistsmile/" # the subpath of your site, e.g. /blog
 url: "tvieiragoncalves.github.io" # the name of your domain
 =======
 baseurl: "" # the subpath of your site, e.g. /blog
+=======
+baseurl: "tvieiragoncalves.github.io/dentistsmile/" # the subpath of your site, e.g. /blog
+>>>>>>> master
 url: "" # the name of your domain
 >>>>>>> parent of 998107f... Update _config.yml
 logo_url: svg/min/logo.svg
 
 # Hero
 hero:
-    hero_img: hero.jpg
+    hero_img: hero1.jpg
     hero_title: Tiago Gonçalves
     hero_description: Psicólogo Clínico
 
