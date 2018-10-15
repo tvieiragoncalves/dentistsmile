@@ -6,7 +6,6 @@ baseurl: "tvieiragoncalves.github.io/dentistsmile/" # the subpath of your site, 
 url: "tvieiragoncalves.github.io" # the name of your domain
 
 
-baseurl: "tvieiragoncalves.github.io/dentistsmile/" # the subpath of your site, e.g. /blog
 
 logo_url: svg/min/logo.svg
 
