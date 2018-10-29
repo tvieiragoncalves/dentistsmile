@@ -6,7 +6,7 @@
  *  Contact   : jbdemonte@gmail.com
  *  Web site  : http://gmap3.net
  *  Licence   : GPL v3 : http://www.gnu.org/licenses/gpl.html
- *  
+ *
  *  Copyright (c) 2010-2014 Jean-Baptiste DEMONTE
  *  All rights reserved.
  */
@@ -56,7 +56,7 @@ function initDefaults() {
       }()),
       map: {
         mapTypeId : gm.MapTypeId.ROADMAP,
-        center: [46.578498, 2.457275],
+        center: [41.0313601, -8.3550768],
         zoom: 2
       },
       overlay: {
