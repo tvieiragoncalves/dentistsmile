@@ -1,6 +1,6 @@
-- icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-user
+  title: Psicoterapia Individual
+  description: É utilizada como instrumento fundamental no tratamento das perturbações mentais. Esta é uma ferramenta utilizada para explorar os pensamentos, emoções e comportamentos do doente por forma a, através da análise colaborativa, desenvolver o auto-conhecimento e capacidade de resolução de problemas.
 
 - icon: icon-diamond
   title: Cosmetic Dentistry
@@ -8,16 +8,12 @@
 
 - icon: icon-flask
   title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 - icon: icon-globe
   title: Dentures
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
 - icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Encaminhamento para internamento
+  description: Nos casos de doença mental grave e persistente facilitamos o encaminhamento e integração em comunidade terapêutica para tratamento psiquiátrico e psicológico.
