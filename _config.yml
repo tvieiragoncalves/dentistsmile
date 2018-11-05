@@ -12,8 +12,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero:
     hero_img: hero2.jpg
-    hero_title: Tiago Gonçalves
-    hero_description: Psicólogo Clínico
+    hero_title: Plena mente 
+    hero_description: Consulta de Psicologia & Psicoterapia
 
 # Contact form
 api_token:  b9abaecea4fc1a6d32c098b62cbc9320 # Enter API token here
