@@ -12,7 +12,7 @@ logo_url: svg/min/logo.svg
 # Hero
 hero:
     hero_img: hero2.jpg
-    hero_title: Plena mente 
+    hero_title: Plena mente
     hero_description: Consulta de Psicologia & Psicoterapia
 
 # Contact form
@@ -48,6 +48,10 @@ feed: yes
 
 # Footer
 copyright: © 2018 Tiago Gonçalves- Todos os Direitos Reservados
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
