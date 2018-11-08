@@ -51,7 +51,8 @@ copyright: © 2018 Tiago Gonçalves- Todos os Direitos Reservados
 # Plugins
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+locale: pt-pt
+lang: pt_PT
 
 # Build settings
 markdown: kramdown
