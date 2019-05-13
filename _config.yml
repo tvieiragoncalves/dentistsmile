@@ -11,7 +11,7 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero:
-    hero_img: gabinete.png
+    hero_img: hero2.jpg
     hero_title: Plena mente
     hero_description: Consulta de Psicologia & Psicoterapia
 
@@ -25,6 +25,7 @@ contact:
     address: Rua de Mosqueiros, Oliveira do Arda , Castelo de Paiva, Portugal
 
 # Opening hours
+Monday-Friday: 10:00 - 20:00
 saturday: 10:00 – 17:00
 sunday: 10:00 – 15:00
 

@@ -13,3 +13,11 @@
 - icon: icon-bed
   title: Encaminhamento para internamento
   description: Nos casos de doença mental grave e persistente facilitamos o encaminhamento e integração em comunidade terapêutica para tratamento psiquiátrico e psicológico. Temos parcerias com outras clínicas e serviços de saúde.
+
+- icon: icon-commenting-o
+  title: Consultório online
+  description: Possibilidade de realização de seguimento de casos online ututilizando utilizando facetime ou skype.
+
+- icon: icon-group
+  title: Psychotherapy in English
+  description: Acknowledging the necessity of foreigners to access mental health services, we provide our consults in english upon request. 
