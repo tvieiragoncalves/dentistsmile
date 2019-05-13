@@ -11,7 +11,7 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero:
-    hero_img: hero2.jpg
+    hero_img: gabinete.png
     hero_title: Plena mente
     hero_description: Consulta de Psicologia & Psicoterapia
 
@@ -64,5 +64,5 @@ exclude: [
 ]
 
 # Theme Settin gs
-analytics:
+analytics:  UA-28822996-1
 google_verification: google323464d0edbfec7b.html
