@@ -1,6 +1,9 @@
-# DentistSmile - Jekyll Theme
+# Plenamente
 
-A single page Jekyll theme for dental clinics. It's easily customizable and responsive. It comes with svg icons, google map and a working contact form. Docs can be found [here](http://obaez.com/dentistsmile-docs/).
 
-Here is a [live Demo](http://obaez.com/dentistsmile/)
+Bem-vindos à consulta de psicologia do Gabinete de Psicologia Plena mente
+
+Tratamento psicoterapêutico de doenças mentais e problemas do foro emocional, cognitivo e comportamental. 
+
+ [Plenamente site](https://tvieiragoncalves.github.io/plenamente/)
 
